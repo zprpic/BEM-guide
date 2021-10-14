@@ -1,0 +1,13 @@
+body,
+html {
+  margin: 0;
+  height: 100vh;
+}
+
+body {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  background: rgb(238, 238, 238);
+  font-size: "sans-serif";
+}
